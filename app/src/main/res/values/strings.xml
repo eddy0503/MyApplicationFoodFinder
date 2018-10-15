@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="city_zone">
+        <item>高雄/小港</item>
+        <item>高雄/前鎮</item>
+        <item>高雄/前金</item>
+        <item>高雄/鹽埕</item>
+        <item>高雄/三民</item>
+        <item>高雄/楠梓</item>
+        <item>高雄/左營</item>
+        <item>高雄/鼓山</item>
+    </string-array>
+</resources>
